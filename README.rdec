@@ -1,4 +1,4 @@
-IDE Visual Studio/Visual Studio Community;
-Instalar as extensões NUnit 3 Test Adapter e SpecFlow;
-Abrir o projeto a partir do arquivo AutomacaoFuncional.sln;
-Executar os testes: Test -> Run -> All Tests;
+1 - IDE Visual Studio/Visual Studio Community;
+2 - Instalar as extensões NUnit 3 Test Adapter e SpecFlow;
+3 - Abrir o projeto a partir do arquivo AutomacaoFuncional.sln;
+4 - Executar os testes: Test -> Run -> All Tests;
