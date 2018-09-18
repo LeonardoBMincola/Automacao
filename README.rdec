@@ -3,3 +3,5 @@
 3 - Abrir o projeto a partir do arquivo AutomacaoFuncional.sln;
 4 - Remover o arquivo packages.config e reinstalar a extensão NUnit3TestAdapter na solução via NuGet Packages;
 5 - Executar os testes: Test -> Run -> All Tests;
+
+Obs. Mais detalhes na Issue #1
